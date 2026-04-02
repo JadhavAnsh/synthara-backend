@@ -1,0 +1,1 @@
+"""Synthara backend application package."""
