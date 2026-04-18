@@ -1,0 +1,1 @@
+"""Paper document generation services."""
